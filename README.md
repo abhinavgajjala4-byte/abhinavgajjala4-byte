@@ -1,5 +1,5 @@
 <div align="center" style="width:100%;">
-<img src="https://drive.google.com/uc?export=view&id=1eeSBsaYB3HUod9bjLLdv2CaULywWoPqL" 
+<img src="https://drive.google.com/uc?export=view&id=1vYBFjlmqXO5xdWnEYPJ6LVYyNcBv4PbH" 
 style="width:100%; max-width:1100px; border-radius:18px; box-shadow:0 10px 25px rgba(0,0,0,0.4);" alt="Aman Raj Banner" />
 </div>
 
@@ -7,7 +7,7 @@ style="width:100%; max-width:1100px; border-radius:18px; box-shadow:0 10px 25px 
 
 <div align="center">
 
-<h1>👋 Hey, I'm Aman Raj!</h1>
+<h1>👋 Hey, I'm GAJJALA ABHINAV!</h1>
 <h3>AI-Focused Full Stack Developer | ML Enthusiast | Problem Solver</h3>
 
 <p>
