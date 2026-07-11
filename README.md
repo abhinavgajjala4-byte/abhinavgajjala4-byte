@@ -91,11 +91,11 @@ I build <b>AI-powered intelligent systems</b> by blending Machine Learning, Data
 <div align="center">
 
 <a href="https://www.linkedin.com/in/gajjala-abhinav-923724370/">
-<img src="https://img.shields.io/badge/LinkedIn-Aman_Raj-blue?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-ABHINAV-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="https://x.com/AbhinavGaj58626">
-<img src="https://img.shields.io/badge/Twitter-CodeLikeAman-1DA1F2?style=for-the-badge&logo=twitter"/>
+<img src="https://img.shields.io/badge/Twitter-CodeLikeABHINAV-1DA1F2?style=for-the-badge&logo=twitter"/>
 </a>
 
 <a href="mailto:abhinavgajjala4@gmail.com.com">
@@ -107,7 +107,7 @@ I build <b>AI-powered intelligent systems</b> by blending Machine Learning, Data
 </a>
 
 <a href="https://www.hackerrank.com/profile/abhinavgajjala4">
-<img src="https://img.shields.io/badge/HackerRank-AmanRaj-2EC866?style=for-the-badge&logo=hackerrank"/>
+<img src="https://img.shields.io/badge/HackerRank-ABHINAV-2EC866?style=for-the-badge&logo=hackerrank"/>
 </a>
 
 </div>
