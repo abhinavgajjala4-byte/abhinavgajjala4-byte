@@ -90,23 +90,23 @@ I build <b>AI-powered intelligent systems</b> by blending Machine Learning, Data
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/aman-raj-081905211">
+<a href="https://www.linkedin.com/in/gajjala-abhinav-923724370/">
 <img src="https://img.shields.io/badge/LinkedIn-Aman_Raj-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="https://twitter.com/Code_Like_Aman">
+<a href="https://x.com/AbhinavGaj58626">
 <img src="https://img.shields.io/badge/Twitter-CodeLikeAman-1DA1F2?style=for-the-badge&logo=twitter"/>
 </a>
 
-<a href="mailto:aman08.stars@gmail.com">
+<a href="mailto:abhinavgajjala4@gmail.com.com">
 <img src="https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=for-the-badge&logo=gmail"/>
 </a>
 
-<a href="https://www.instagram.com/epicure_wiz">
+<a href="https://www.instagram.com/abhiiiiiiiiiiiii_21/">
 <img src="https://img.shields.io/badge/Instagram-epicure__wiz-E4405F?style=for-the-badge&logo=instagram"/>
 </a>
 
-<a href="https://www.hackerrank.com/profile/aman08_stars">
+<a href="https://www.hackerrank.com/profile/abhinavgajjala4">
 <img src="https://img.shields.io/badge/HackerRank-AmanRaj-2EC866?style=for-the-badge&logo=hackerrank"/>
 </a>
 
